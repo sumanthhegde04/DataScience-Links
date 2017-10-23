@@ -1,0 +1,10 @@
+https://www.twitch.tv/aws
+https://aws.amazon.com/blogs/aws/game-day-essentials-show-on-twitch/
+https://github.com/aws/chalice/blob/master/README.rst#faq
+http://chalice.readthedocs.io/en/latest/topics/configfile.html#stage-specific-configuration
+https://www.youtube.com/playlist?list=PL5bUlblGfe0KgRuYQfcxE2J4HS1yA7hm
+http://chalice.readthedocs.io/en/latest/topics/packaging.html?highlight=dependencies#rd-party-packages
+https://gitter.im/awslabs/home
+https://aws.amazon.com/financial-services/grid-computing/?sc_channel=em&sc_campaign=Field_LN_NAMER_Industry%20Nurture%20Financial%20Services.1.Field_LN_NAMER_Financial%20Services.Send%20Email&sc_publisher=aws&sc_medium=em_54298&sc_content=other_ed_field&sc_country=us&sc_geo=namer&sc_category=athena&sc_outcome=other&trk=em_54298&mkt_tok=eyJpIjoiTXpNMk9UazNNRGcwTVROaiIsInQiOiJEVkwrVFFkVXd1c29cL2d1ZFVubTFoanJ3aHBLOVFKekt1NUJxcXNFeFZyUEp2S1dISTZYN2tSczIxQklPWmdZdDY3dmFpZGc2cStZSSs3MnpUNVA1bitTc2ZPcENScnZ4NlN5THV2M2xzZmxkT0taTmhLWkVnb0o2UERBaDRqRjcifQ%3D%3D
+https://www.youtube.com/watch?v=g8LnNXtOONk&feature=youtu.be%3Fsc_channel%3Dem&sc_campaign=Field_LN_NAMER_Industry+Nurture+Financial+Services.1.Field_LN_NAMER_Financial+Services.Send+Email&sc_publisher=aws&sc_medium=em_54298&sc_content=other_ed_field&sc_country=us&sc_geo=namer&sc_category=athena&sc_outcome=other&trk=em_54298&mkt_tok=eyJpIjoiTXpNMk9UazNNRGcwTVROaiIsInQiOiJEVkwrVFFkVXd1c29cL2d1ZFVubTFoanJ3aHBLOVFKekt1NUJxcXNFeFZyUEp2S1dISTZYN2tSczIxQklPWmdZdDY3dmFpZGc2cStZSSs3MnpUNVA1bitTc2ZPcENScnZ4NlN5THV2M2xzZmxkT0taTmhLWkVnb0o2UERBaDRqRjcifQ%3D%3D
+https://github.com/amzn/amazon-dsstne

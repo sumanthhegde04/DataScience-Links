@@ -11,8 +11,6 @@ https://www.analyticsvidhya.com/blog/2015/09/applications-data-science/
 http://blog.aylien.com/data-science/
 https://www.datarobot.com/use-cases/
 
-
-
 Data Stories and Data science questions:
 https://datastories.quora.com/
 https://www.quora.com/How-do-data-scientists-use-statistics
@@ -29,6 +27,8 @@ https://www.quora.com/How-do-you-judge-a-good-Data-scientist-with-just-5-questio
 http://www.datasciencecentral.com/profile/RubensZimbres
 http://www.kdnuggets.com/2017/09/data-science-key-terms-explained.html
 http://www.dataversity.net/last-blog-data-modeling-sql-uml/
+https://www.pwc.com/us/en/publications/data-science-and-analytics.html
+https://www.quora.com/How-do-I-learn-to-tell-stories-as-a-data-scientist
 
 DS Interview:
 https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2017/184
@@ -44,6 +44,7 @@ https://www.google.com/search?q=machine+learning+interview+questions+and+answers
 https://www.google.com/search?q=data+science+interview+questions+pdf&sa=X&ved=0ahUKEwj62oPnmqfWAhXIYyYKHcaXDDAQ1QIIYigA
 https://career.guru99.com/top-50-interview-questions-on-machine-learning/
 https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/
+
 
 Data Science projects:
 https://pwc-spark.com/docs/DOC-750141
@@ -64,9 +65,15 @@ https://medium.freecodecamp.com/the-best-data-science-courses-on-the-internet-ra
 https://www.springboard.com/blog/data-science-projects-bootcamp-graduates/
 
 
-Dataquest blogs:
+Dataquest and DataScience blogs:
 https://www.dataquest.io/blog/learn-data-science/?utm_source=intercom&utm_medium=email&utm_campaign=signup_5day_inactive
 https://medium.freecodecamp.org/how-machines-learn-a-practical-guide-203aae23cafb
+https://www.analyticsvidhya.com/blog/2016/09/most-active-data-scientists-free-books-notebooks-tutorials-on-github/
+https://www.analyticsvidhya.com/blog/2014/11/data-science-projects-learn/
+http://semanticommunity.info/Data_Science/Doing_Data_Science
+https://www.analyticsvidhya.com/blog/2016/10/17-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
+https://www.datacamp.com/community/tutorials
+https://qph.ec.quoracdn.net/main-qimg-4f0b1853093d515780f1d9ca816a671d.webp
 
 Data Scratch pads:
 https://macwright.org/2017/06/01/data-science-scratchpad.html
@@ -95,19 +102,27 @@ http://machinelearningmastery.com/linear-regression-for-machine-learning/
 http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
 http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/
 http://www.infoworld.com/article/3115334/artificial-intelligence/5-free-e-books-for-machine-learning-mastery.html
+https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
 
 Cheat Sheets:
 https://www.datacamp.com/community/blog/pyspark-cheat-sheet-python#gs.qn0IBxM
 https://www.datacamp.com/community/blog/pyspark-sql-cheat-sheet#gs.Ad09hW0
 https://www.datacamp.com/community/tutorials
 https://www.datacamp.com/community/tutorials/seaborn-python-tutorial#gs.IWUO36A
-Probability:
 
+Probability:
 https://www.class-central.com/report/best-statistics-probability-courses-data-science/
 https://www.analyticsvidhya.com/blog/2017/02/basic-probability-data-science-with-examples/
 https://www.edx.org/course/statistics-probability-data-science-uc-san-diegox-dse210x
 http://101.datascience.community/tag/probability/
 http://data.berkeley.edu/probability-data-science
-inferential statistics related to the data science:
 
+inferential statistics related to the data science:
 https://www.analyticsvidhya.com/blog/2017/01/comprehensive-practical-guide-inferential-statistics-data-science/
+
+DS_MISC:
+http://datasciencemasters.org/
+http://nirvacana.com/thoughts/becoming-a-data-scientist/
+https://docs.scipy.org/doc/numpy-dev/user/quickstart.html
+https://www.datacamp.com/community/tutorials/python-numpy-tutorial#subset,
+https://www.cloudera.com/campaign/data-science-success-kit/thank-you-dssk.html
